@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+   <title>김성준</title>
+ </head>
+<body>
+ <h1>20141473 김성준</h1>
+<ul>
+ <h3 style="color:green">Home Work</h3>
+ <li><a href="dongsuk3391.github.io/hello.html" target="_blank">자바스크립트 환영!</a></li>
+ <li><a href="dongsuk3391.github.io/gookga.html" target="_blank">애국가</a></li>
+ <li><a href="dongsuk3391.github.io/gookga2.html" target="_blank">애국가선택</a></li>
+ <li><a href="dongsuk3391.github.io/timetable.html" target="_blank">시간표</a></li>
+ 
+
+ <h3 style="color:green">Example</h3>
+ <li><a href="dongsuk3391.github.io/tag1.html" target="_blank">태그 예시</a></li>
+ <li><a href="dongsuk3391.github.io/tag2.html" target="_blank">태그 설명</a></li>
+ <li><a href="dongsuk3391.github.io/20170314.html" target="_blank">목록태그</a></li>
+ <li><a href="dongsuk3391.github.io/20170314.html" target="_blank">마크업 언어</a></li>
+ <li><a href="dongsuk3391.github.io/basicSemantic1.html" target="_blank">div 학습</a></li>
+ <li><a href="dongsuk3391.github.io/basicSemantic.html" target="_blank">시멘틱 학습</a></li>
+</ul>
+</body>
+</html>
+
