@@ -1,3 +1,4 @@
+
 <!doctype.html> <!-- reservation.html-->
 <html><head><meta charset="utf-8/"><meta name="viewport"content="width=device-width,initial-scale=1"/>
 <title>음식점 예약 화면</title></head>
@@ -17,26 +18,28 @@
  <label for="timex">시간: </label>
 <input type="time"id="times"name="timex"/><br/>
  </fieldset>
-<fieldset><legend>시간</legend>
- <label for="menux">시간</label>
-<select id="menux" name="menu" multiple>
- <option value="아침">아침</option>
- <option value="점심">점심</option>
- <option value="저녁" selected>저녁</option></select>
+
+<fieldset><legend>메뉴</legend>
+<label for="timex">시간</label>
+<select id="timex"name="mealtime">
+<option value="아침">아침</option>
+<option value="점심">점심</option>
+<option value="저녁"selected>저녁</option></select>
+<label for="mealx">메뉴</label>
+<select id="mealx"name="meal"multiple>
+<option value="리조또">리조또</option>
+<option value="스파게티">스파게티</option>
+<option value="파스타">파스타</option>
+<option value="맥주">맥주</option>
+<option value="칵테일">칵테일</option>
+<option value="음료"selected>음료</option></select>
 </fieldset>
- <fieldset><legend>메 뉴</legend>
- <label for="menux">메 뉴</label>
-<select id="menux" name="menu" multiple>
- <option value="리조또">리조또</option>
- <option value="스파게티">스파케티</option>
- <option value="파스타">파스타</option>
- <option value="맥주">맥주</option>
- <option value="칵테일" selected>칵테일</option></select>
-</fieldset>
- <button type="submit">예약</button>
- <input type="reset" name="reset1" value="취소"/>
- </form>
- </section>
- </body></html>
+<button type="submit">예약</button>
+<input type="reset" name="reset"value="취소"/>
+
+</form>
+</section>
+</body>
+
  
  
