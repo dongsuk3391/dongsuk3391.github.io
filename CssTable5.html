@@ -5,7 +5,13 @@
 
 
 <title> CSS 테이블 실습 </title></head>
-
+<style>
+  table,th,td { border:1px dotted black;}
+table { border-collapse:separate; }
+th, td { text-align: left; padding: 8px; }
+tr:nth-child(odd) { background-color: green;}
+tr:nth-child(even) { background-color: yellow;}
+  </style>
 <body>
 <section><h3>반응형 테이블</h3>
 <div style="overflow-x:auto;">
