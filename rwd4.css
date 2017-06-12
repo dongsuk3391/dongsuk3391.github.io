@@ -2,12 +2,9 @@
 .row::after { content:""; clear:both; display:table; } 
 [class*="col-"] { float:left; padding:10px;}
  .header, .footer { background-color:lightgray; color:blue; padding:10px;}
-.menu  ul, .banner ul { list-style-type:none; }  
-.menu  li { background-color:pink; color:black; padding:10px; margin-bottom:10px; box-shadow:0 1px 3px gray;}
-.menu li:hover{background-color:red;} 
-.banner li {border:2px solid black; padding:10px; margin-bottom:10px; box-shadow:0 1px 3px gray;}
-.banner li img {width:30%; vertical-align:bottom;}
-.banner img {vertical-align:right;}
+.banner  ul, .banner ul { list-style-type:none; }  
+.banner  li { background-color:pink; color:black; padding:10px; margin-bottom:10px; box-shadow:0 1px 3px gray;}
+.banner li:hover{background-color:red;} 
 .floating {position: fixed;}
 .big p{font-size:1.3em;}
  table, th, td { border: 1px solid #bcbcbc;}
